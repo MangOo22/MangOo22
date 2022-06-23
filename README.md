@@ -7,11 +7,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmednageh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmednageh/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ahmednageh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmednageh" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100015858818160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100015858818160" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/mangoo-oo?graphtype=all" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mangoo-oo?graphtype=all" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mangoo-oo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mangoo-oo/" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/https://atcoder.jp/users/mangoo_oo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://atcoder.jp/users/mangoo_oo" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/mangoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mangoo" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mangoo-oo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mangoo-oo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mangoo-oo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mangoo-oo" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/mangoo_oo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mangoo_oo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
